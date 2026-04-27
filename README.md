@@ -57,8 +57,10 @@
 ### Где скачать версию 2.0?
 **AutoRun 2.0** доступен подписчикам **[MartyPlus](https://t.me/martyfiles/1146)**.
 
-#
+---
 
+<div align="center">
+  
 [![Обзор AutoRun](https://img.shields.io/badge/Обзор%20AutoRun-red?style=for-the-badge&logo=youtube)](https://youtu.be/cfGu_Vy2-h0?t=407)
 [![Telegram](https://img.shields.io/badge/Дополнительное%20видео-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/martyfiles/2342)
 
