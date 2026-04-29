@@ -41,9 +41,9 @@
 #
 
 ### 📦 Есть другие версии?
-Да, существует расширенная версия **AutoRun 2.0** с дополнительными функциями.
+Да, существует расширенная версия **AutoRun 2.2** с дополнительными функциями.
 
-| Функция           | AutoRun 1.0 | AutoRun 2.0 |
+| Функция           | AutoRun 1.0 | AutoRun 2.2 |
 |:-----------------:|:-----------:|:-----------:|
 | Отключение задач | ![✔](https://img.shields.io/badge/-✔-brightgreen) | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 | Удаление задач   | ![✔](https://img.shields.io/badge/-✔-brightgreen) | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
@@ -54,8 +54,8 @@
 
 #
 
-### Где скачать версию 2.0?
-**AutoRun 2.0** доступен подписчикам **[MartyPlus](https://t.me/martyfiles/1146)**.
+### Где скачать версию 2.2?
+**AutoRun 2.2** доступен подписчикам **[MartyPlus](https://t.me/martyfiles/1146)**.
 
 ---
 
