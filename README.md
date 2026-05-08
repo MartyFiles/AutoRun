@@ -9,17 +9,52 @@
 
 [![Смотреть видео](https://i.ibb.co/9DcXVds/1.png)](https://youtu.be/cfGu_Vy2-h0?t=407)
 
-<div align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td align="center" width="33%"><b>Скачивания</b></td>
+      <td align="center" width="33%"><b>Обзоры</b></td>
+      <td align="center" width="33%"><b>Донаты</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MartyFiles/AutoRun/releases/download/Release/AutoRun.exe">
+          <img src="https://img.shields.io/github/downloads/MartyFiles/AutoRun/Release/total?style=for-the-badge&label=AutoRun%201.0&color=blue&logo=download">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://youtu.be/cfGu_Vy2-h0?t=407">
+          <img src="https://img.shields.io/badge/AutoRun%201.0-red?style=for-the-badge&logo=youtube">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/tribute/app?startapp=dg3u">
+          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AutuRun%202.2-377-blue?style=for-the-badge&logo=download">
+      </td>
+      <td align="center">
+        <a href="https://t.me/martyfiles/2342">
+          <img src="https://img.shields.io/badge/AutoRun%202.2-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.buymeacoffee.com/martyfiles">
+          <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-![Скачиваний](https://img.shields.io/github/downloads/MartyFiles/AutoRun/Release/total?style=for-the-badge&label=Скачиваний&color=blue&logo=download)
-
-
-</div>
-
----
+#
 > [!Caution]
 > Программа создана для официальной Windows 11. Работоспособность на сборках или старых версиях ОС не гарантирована.
----
+#
 
 ### 🧩 Что такое AutoRun?
 Минималистичный, лёгкий и удобный менеджер автозагрузки для Windows.
@@ -54,14 +89,12 @@
 
 #
 
-### Где скачать версию 2.2?
+### 📥 Где скачать версию 2.2?
 **AutoRun 2.2** доступен подписчикам **[MartyPlus](https://t.me/martyfiles/1146)**.
 
----
-
+#
 <div align="center">
-  
-[![Обзор AutoRun](https://img.shields.io/badge/Обзор%20AutoRun-red?style=for-the-badge&logo=youtube)](https://youtu.be/cfGu_Vy2-h0?t=407)
-[![Telegram](https://img.shields.io/badge/Дополнительное%20видео-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/martyfiles/2342)
-
+<strong>ПРИЯТНОГО ПОЛЬЗОВАНИЯ!</strong>
 </div>
+
+
