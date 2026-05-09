@@ -29,7 +29,7 @@
       </td>
       <td align="center">
         <a href="https://t.me/tribute/app?startapp=dg3u">
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+          <img src="https://img.shields.io/badge/Telegram%20/Tribute-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
       </td>
     </tr>
