@@ -85,8 +85,11 @@
 | Экспорт задач    | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 | Импорт задач     | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 | Добавление задач | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
+| Удаление всех задач      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 | Тихие ключи      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 
+#
+[![Превью](https://i.ibb.co/S73WHtWS/2.png)](https://t.me/martyfiles/2342)
 #
 
 ### 📥 Где скачать версию 2.2?
