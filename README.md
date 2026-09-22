@@ -35,11 +35,11 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/AutuRun%202.2-377-blue?style=for-the-badge&logo=download">
+        <img src="https://img.shields.io/badge/AutuRun%203.0-410-blue?style=for-the-badge&logo=download">
       </td>
       <td align="center">
         <a href="https://t.me/martyfiles/2342">
-          <img src="https://img.shields.io/badge/AutoRun%202.2-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
+          <img src="https://img.shields.io/badge/AutoRun%203.0-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
       </td>
       <td align="center">
@@ -76,9 +76,9 @@
 #
 
 ### 📦 Есть другие версии?
-Да, существует расширенная версия **AutoRun 2.2** с дополнительными функциями.
+Да, существует расширенная версия **AutoRun 3.0** с дополнительными функциями.
 
-| Функция           | AutoRun 1.0 | AutoRun 2.2 |
+| Функция           | AutoRun 1.0 | AutoRun 3.0 |
 |:-----------------:|:-----------:|:-----------:|
 | Отключение задач | ![✔](https://img.shields.io/badge/-✔-brightgreen) | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 | Удаление задач   | ![✔](https://img.shields.io/badge/-✔-brightgreen) | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
@@ -87,13 +87,17 @@
 | Добавление задач | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 | Удаление всех задач      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 | Тихие ключи      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
+| Отслеживание состояния      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
+| Улучшенные анимации      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
+| Ускоренная загрузка      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
+| Нативный код C#      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
 
 #
-[![Превью](https://i.ibb.co/S73WHtWS/2.png)](https://t.me/martyfiles/2342)
+[![Превью](https://i.ibb.co/CKLVqCww/Post-copy.png)](https://t.me/martyfiles/2342)
 #
 
-### ⬇️ Где скачать версию 2.2?
-**AutoRun 2.2** доступен подписчикам **[MartyPlus](https://t.me/martyfiles/1146)**.
+### ⬇️ Где скачать версию 3.0?
+**AutoRun 3.0** доступен подписчикам **[MartyPlus](https://t.me/martyfiles/1146)**.
 
 #
 <div align="center">
