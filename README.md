@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/MartyFiles/AutoRun/releases/latest/download/AutoCopy.exe">
+        <a href="https://github.com/MartyFiles/AutoRun/releases/latest/download/AutoRun.exe">
           <img src="https://img.shields.io/github/downloads/MartyFiles/AutoRun/total?style=for-the-badge&label=AutoRun%20&color=blue&logo=download">
         </a>
       </td>
