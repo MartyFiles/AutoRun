@@ -7,44 +7,29 @@
 
 #
 
-[![Смотреть видео](https://i.ibb.co/9DcXVds/1.png)](https://youtu.be/cfGu_Vy2-h0?t=407)
+[![Смотреть видео](https://i.ibb.co/CKLVqCww/Post-copy.png)](https://youtu.be/w9h5wyk-rdg?t=845)
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tbody>
     <tr>
       <td align="center" width="33%"><b>Скачивания</b></td>
-      <td align="center" width="33%"><b>Обзоры</b></td>
-      <td align="center" width="33%"><b>Донаты</b></td>
+      <td align="center" width="33%"><b>Обзор</b></td>
+      <td align="center" width="33%"><b>Лицензия</b></td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/MartyFiles/AutoRun/releases/download/Release/AutoRun.exe">
-          <img src="https://img.shields.io/github/downloads/MartyFiles/AutoRun/Release/total?style=for-the-badge&label=AutoRun%201.0&color=blue&logo=download">
+        <a href="https://github.com/MartyFiles/AutoRun/releases/latest/download/AutoCopy.exe">
+          <img src="https://img.shields.io/github/downloads/MartyFiles/AutoRun/total?style=for-the-badge&label=AutoRun%20&color=blue&logo=download">
         </a>
       </td>
       <td align="center">
-        <a href="https://youtu.be/cfGu_Vy2-h0?t=407">
-          <img src="https://img.shields.io/badge/AutoRun%201.0-red?style=for-the-badge&logo=youtube">
+        <a href="https://youtu.be/GvDsMEPBIFM?t=835">
+          <img src="https://img.shields.io/badge/AutoRun%20-red?style=for-the-badge&logo=youtube">
         </a>
       </td>
       <td align="center">
-        <a href="https://t.me/tribute/app?startapp=dg3u">
+        <a href="https://t.me/tribute/app?startapp=pK7j">
           <img src="https://img.shields.io/badge/Telegram%20/Tribute-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AutuRun%203.1-410-blue?style=for-the-badge&logo=download">
-      </td>
-      <td align="center">
-        <a href="https://t.me/martyfiles/2342">
-          <img src="https://img.shields.io/badge/AutoRun%202.0-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.buymeacoffee.com/martyfiles">
-          <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
         </a>
       </td>
     </tr>
@@ -52,56 +37,94 @@
 </table>
 
 #
-> [!Caution]
-> Программа создана для официальной Windows 11. Работоспособность на сборках или старых версиях ОС не гарантирована.
-#
 
-### ℹ️ Что такое AutoRun?
-Минималистичный, лёгкий и удобный менеджер автозагрузки для Windows.
+### ℹ️ О программе
 
-#
+В Windows нет удобного и простого менеджера автозагрузки. «А что насчёт Диспетчера задач?» — скажут некоторые. А я отвечу: управление автозагрузкой через Диспетчер задач максимально некомфортное.
 
-### ⚙️ Что он умеет?
-Работать с задачами автозагрузки из:
-- Реестра
-- Папки Startup
-- Планировщика задач
-- Служб
+Некоторые задачи вообще не отображаются, нет разбивки по разделам (ведь в Windows есть несколько способов добавить программу в автозагрузку), нельзя полноценно удалить задачу, отсутствуют импорт и экспорт.
+
+Эту проблему с переменным успехом пытаются решить сторонние утилиты, но и у них часто есть недостатки. То интерфейс перегружен, то функционала не хватает, то работает всё медленно.
+
+Так и возникла идея создать собственный менеджер автозагрузки. Лёгкий, быстрый, симпатичный, современный — со всеми нужными фишками и без лишней шелухи.
+
+> Ничего лишнего — только автозагрузка.
 
 #
 
-### 💸 Он бесплатный?
-Да, версия **1.0 полностью бесплатна**.
+### 🧩 Устройство
+
+Утилита полностью написана на C# — современном языке программирования с тесной интеграцией с Windows.
+
+Никаких сторонних библиотек, скриптов или дополнительных файлов — только чистый код.
+
+Утилита быстро собирает информацию о программах, службах и UWP-приложениях и мгновенно запускается.
+
+> При этом размер программы составляет менее 1 МБ.
 
 #
 
-### 📦 Есть другие версии?
-Да, существует расширенная версия **AutoRun 3.1** с дополнительными функциями.
+### ⚙️ Возможности
 
-| Функция           | AutoRun 1.0 | AutoRun 3.1 |
-|:-----------------:|:-----------:|:-----------:|
-| Отключение задач | ![✔](https://img.shields.io/badge/-✔-brightgreen) | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Удаление задач   | ![✔](https://img.shields.io/badge/-✔-brightgreen) | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Экспорт задач    | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Импорт задач     | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Добавление задач | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Удаление всех задач      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Тихие ключи      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Отслеживание состояния      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Улучшенные анимации      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Ускоренная загрузка      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
-| Нативный код C#      | ![✖](https://img.shields.io/badge/-✖-red)        | ![✔](https://img.shields.io/badge/-✔-brightgreen) |
+| Функция | Без лицензии | С лицензией |
+|:--|:--:|:--:|
+| Добавление задач | ✅ | ✅ |
+| Отключение задач | ✅ | ✅ |
+| Удаление задач | ✅ | ✅ |
+| Навигация | ❌ | ✅ |
+| Экспорт\Импорт | ❌ | ✅ |
+| Очистка автозагрузки | ❌ | ✅ |
+| Системные задачи | ❌ | ✅ |
+| Тихие ключи | ❌ | ✅ |
 
-#
-[![Превью](https://i.ibb.co/CKLVqCww/Post-copy.png)](https://t.me/martyfiles/2342)
-#
-
-### ⬇️ Где скачать версию 3.1?
-**AutoRun 3.1** доступен подписчикам **[MartyPlus](https://t.me/martyfiles/1146)**.
+> [!Tip]
+> Тихие ключи: <strong>-delete</strong> (полная очистка автозагрузки), <strong>-export</strong> (экспорт автозагрузки в файл AutoRun.ini рядом с приложением), <strong>-import</strong> (импорт автозагрузки из файла AutoRun.ini рядом с приложением). 
 
 #
+
+### 💳 Где купить лицензию?
+Ключ можно получить через Telegram-сервис Tribute или платформу Buy Me a Coffee.
+
+#### Tribute:
+- Перейдите в [Tribute](https://t.me/tribute/app?startapp=pK7j)
+- Вставьте ID компьютера в поле "Детали заказа"
+- Завершите оплату
+
+#### Buy Me a Coffee:
+- Перейдите на [Buy Me a Coffee](https://buymeacoffee.com/martyfiles)
+- Вставьте название программы и ID компьютера в поле для сообщения
+- Оплатите донат $5
+
+> [!Tip]
+> Ключ будет отправлен через бота Tribute или в ответном сообщении Buy Me a Coffee
+
+#
+
+### 🖥️ Что за "ID компьютера"? 
+
+Это идентификатор вашего ПК, необходимый для создания персонального ключа.
+> [!Important]
+> Скопировать его нужно в окне активации программы.
+
+#
+
+### ⭐ Есть другой способ получения лицензии?
+
+Оформив подписку на закрытый Telegram-канал [MartyPlus](https://t.me/martyfiles/1146), вы получите **бесплатные бессрочные лицензии на все авторские программы для вашего ПК**, а также:
+
+📁 Эксклюзивные материалы: портативные и модифицированные версии программ, утилиты, темы, скины, обои и многое другое
+
+🔑 Дополнительный ежегодный ключ совершенно бесплатно
+
+🏷️ Дополнительные лицензии всего за $1
+
+💬 Доступ к закрытому чату
+
+> [!TIP]
+> Подписка оплачивается раз в год, а полученные лицензии остаются у вас навсегда!
+
+#
+
 <div align="center">
 <strong>ПРИЯТНОГО ПОЛЬЗОВАНИЯ!</strong>
 </div>
-
-
